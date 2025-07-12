@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "title": "EcoTracker",
+      "description": "A carbon footprint calculator built with HTML, CSS, and JavaScript.",
+      "image": "assets/images/ecotracker.jpg",
+      "link": "#"
+    },
+    {
+      "title": "SkillBridge",
+      "description": "Mentorship platform for connecting students and mentors online.",
+      "image": "assets/images/skillbridge.jpg",
+      "link": "#"
+    },
+    {
+      "title": "Student Results Viewer",
+      "description": "A student portal to manage and view academic results.",
+      "image": "assets/images/results.jpg",
+      "link": "#"
+    }
+  ]
+}
